@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Admin"
+AuthUserFile C:/xampp/htdocs/tehnika.ru/admin/.htpass
+Require valid-user
